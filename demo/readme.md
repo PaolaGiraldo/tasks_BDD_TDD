@@ -46,7 +46,7 @@ Se implementó el patrón MVC con las siguientes capas:
 
 1. Clonar el repositorio
 
-bash
+```bash
 git clone <url-del-repositorio>
 cd nombre-del-proyecto
 
