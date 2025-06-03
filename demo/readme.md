@@ -46,7 +46,7 @@ Se implementó el patrón MVC con las siguientes capas:
 
 1. Clonar el repositorio
 
-```bash
+bash
 git clone <url-del-repositorio>
 cd nombre-del-proyecto
 
@@ -58,6 +58,6 @@ Content-Type: application/json
   "title": "Comprar leche",
   "description": "Ir al supermercado y comprar leche"
 }
-
+```
 
 ![img.png](img.png)
